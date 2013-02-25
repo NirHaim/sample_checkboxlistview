@@ -12,9 +12,9 @@ package es.schimpf.example;
 public class SampleData {
 
 	private String name;
-	
+
 	private boolean selected;
-	
+
 	public SampleData(String name, boolean selected) {
 		super();
 		this.name = name;
@@ -36,6 +36,5 @@ public class SampleData {
 	public void setSelected(boolean selected) {
 		this.selected = selected;
 	}
-	
-	
+
 }
