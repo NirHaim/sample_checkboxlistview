@@ -1,6 +1,7 @@
-sample_autoclosedialog
+sample_checkboxlistview
 ======================
 
-Example showing a dialog in android closing itself after some time
+Example of a listview with checkboxes inside. 
 
-http://schimpf.es/autoclose-dialog-after-some-time
+More information at:
+http://schimpf.es/listview-with-checkboxes-inside
